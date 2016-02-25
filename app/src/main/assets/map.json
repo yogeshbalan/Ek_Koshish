@@ -1,0 +1,85 @@
+{
+  "ngolist": [
+    {
+      "address": "J/101\nNew Golden Nest, Phase -11A,\nBhayandar (east)\nThane\nMaharashtra\n401105",
+      "geopoint": {
+        "lat": 19.3006638,
+        "lng": 72.863008
+      },
+      "name": "AASTHA FOUNDATION",
+      "state": "Maharashtra"
+    },
+    {
+      "address": "Flat no: 2, 1st Floor, Shefali Apartment\nBehind Hotel Sai Sagar, Wanowrie\nPune\nPune\nMaharashtra",
+      "geopoint": {
+        "lat": 18.4828904,
+        "lng": 73.9016832
+      },
+      "name": "AID FOR SOCIAL CHANGE AND WELFARE ASSOCIATION",
+      "state": "Maharashtra"
+    },
+    {
+      "address": "32/4, \u2019Sri Nidhi \u2018Apartments\nII Floor, Desika Road\nChennai\nChennai\nTamil Nadu\n600004",
+      "geopoint": {
+        "lat": 13.0374103,
+        "lng": 80.2581988
+      },
+      "name": "All India Movement For Seva",
+      "state": "Tamil_nadu"
+    },
+    {
+      "address": "1st Lane Khetwadi, 1st Floor, Municipal School, Near Alankar Cinema\nKhetwadi\nMumbai\nMumbai\nMaharashtra\n400004",
+      "geopoint": {
+        "lat": 18.9581018,
+        "lng": 72.82331479999999
+      },
+      "name": "Apne Aap Women's Collective",
+      "state": "Maharashtra"
+    },
+    {
+      "address": "\nJ/101\nNew Golden Nest, Phase -11A,\nBhayandar (east)\nThane\nMaharashtra\n401105",
+      "geopoint": {
+        "lat": 19.3006638,
+        "lng": 72.863008
+      },
+      "name": "Child Help Foundation",
+      "state": "Maharashtra"
+    },
+    {
+      "address": "93/924 Siddhivinayak Society\nMahavir Nagar, Kandivali West\nMumbai\nMumbai\nMaharashtra\n400067",
+      "geopoint": {
+        "lat": 19.2148318,
+        "lng": 72.8385419
+      },
+      "name": "\t \nUmang Charitable Trust",
+      "state": "Maharashtra"
+    },
+    {
+      "address": "C/478,Old Seemapuri\nNear Chand Masjid\nDelhi\nEast Delhi\nDelhi\n110095",
+      "geopoint": {
+        "lat": 28.6761864,
+        "lng": 77.3159348
+      },
+      "name": "Anwar Education Society",
+      "state": "Delhi"
+    },
+    {
+      "address": "101A Friends Colony East\nNew Delhi\nNew Delhi\nNew Delhi\nDelhi\n100065",
+      "geopoint": {
+        "lat": 28.5668488,
+        "lng": 77.26638799999999
+      },
+      "name": "\t \nAtmashakti",
+      "state": "Delhi"
+    },
+    {
+      "address": "HNo. 16 BRAHAMPURI COLONY ,RANHOLLA, NEAR \u2013KALI MATA MANDIR,\nNAJAFGARH ROAD, NANGLOI,\nNEW DELHI\nNew Delhi\nDelhi\n110041",
+      "geopoint": {
+        "lat": 28.6841206,
+        "lng": 77.0632942
+      },
+      "name": "Ayushi Jan Sewa Welfare Foundation",
+      "state": "Delhi"
+    }
+  ]
+}

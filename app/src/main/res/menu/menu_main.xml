@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/event_profile"
+        android:icon="@drawable/ic_person_white"
+        android:orderInCategory="1"
+        android:title="Profile"
+        app:showAsAction="always" />
+</menu>
